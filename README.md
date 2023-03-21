@@ -16,10 +16,10 @@
 ### Connect with me:
 
 
-
-
-[<img align="left" alt="ahmad-afghan-6a6951176 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="ahmad_afghan25 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+<img align="left" alt="ahmadafghan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<img align="left" alt="ahmad_afghan25 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img align="left" alt="ahmadcr7 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img align="left" alt="ahmadafghan | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
 
 <br />
 
