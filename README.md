@@ -4,11 +4,12 @@
 
 ## I'm a Developer, and Freelancer!!
 
-- ⚡  I'm a freelancer and student
-- 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2021 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to watch soccer #HalaMadrid
+-🌱 I’m currently skilled in JavaScript, Python, C++, SQL, React, Redux, Node.js, Express.js, MySQL, MongoDB, Django, RESTful API development, Selenium, WebdriverIO, Cypress, Tosca, API Testing (Postman, Katalon), AWS, Azure DevOps, Kubernetes, Linux, Docker, Heroku, and Git.
+-🏅 I hold certificates from The Modern JavaScript Bootcamp - Udemy and The Web Developer Bootcamp - Udemy.
+-🎯 I am looking for software engineering and SDET job opportunities.
+-📈 My recent work experience includes positions at Carl Zeiss as a Software Development Engineer in Test and at Upwork as a Full Stack Developer - Freelancer.
+-🥅 My goals include contributing more to Open Source projects and further developing my skills in my desired job roles.
+⚡ Fun fact: I love to watch soccer #HalaMadrid
 
 
 
