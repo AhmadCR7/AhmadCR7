@@ -9,7 +9,7 @@
 - 🎯 I am looking for software engineering and SDET job opportunities.
 - 📈 My recent work experience includes positions at Carl Zeiss as a Software Development Engineer in Test and at Upwork as a Full Stack Developer - Freelancer.
 - 🥅 My goals include contributing more to Open Source projects and further developing my skills in my desired job roles.
-⚡- Fun fact: I love to watch soccer #HalaMadrid
+- ⚡ Fun fact: I love to watch soccer #HalaMadrid
 
 
 
