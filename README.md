@@ -14,14 +14,20 @@
 
 
 ### Connect with me:
-
-
-<img align="left" alt="ahmadafghan | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-<img align="left" alt="ahmad_afghan25 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-<img align="left" alt="ahmadcr7 | GitHub" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-<img align="left" alt="ahmadafghan | Website" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/internetarchive.svg" />
+[<img align="left" alt="Phone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/phone.svg" />][phone]
+[<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
+[<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mark-github.svg" />][github]
 
 <br />
+
+[phone]: tel:+14693210894
+[email]: mailto:afghan.ahmadmujtaba@gmail.com
+[website]: https://ahmadafghan.com/
+[linkedin]: https://linkedin.com/in/ahmadafghan
+[github]: https://github.com/ahmadcr7
+
 
 ### Languages and Tools:
 
