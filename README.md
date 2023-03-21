@@ -20,14 +20,14 @@
 [<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
 [<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mark-github.svg" />][github]
 
-<br />
+
 
 [phone]: tel:+14693210894
 [email]: mailto:afghan.ahmadmujtaba@gmail.com
 [website]: https://ahmadafghan.com/
 [linkedin]: https://linkedin.com/in/ahmadafghan
 [github]: https://github.com/ahmadcr7
-
+<br />
 
 ### Languages and Tools:
 
