@@ -2,7 +2,7 @@
 
 
 
-## I'm a Developer, and Freelancer!!
+## I'm a Development Engineer In Test!!
 
 - 🌱 I’m currently skilled in JavaScript, Python, C++, SQL, React, Redux, Node.js, Express.js, MySQL, MongoDB, Django, RESTful API development, Selenium, WebdriverIO, Cypress, Tosca, API Testing (Postman, Katalon), AWS, Azure DevOps, Kubernetes, Linux, Docker, Heroku, and Git.
 - 🏅 I hold certificates from The Modern JavaScript Bootcamp - Udemy and The Web Developer Bootcamp - Udemy.
