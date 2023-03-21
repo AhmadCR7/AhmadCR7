@@ -5,7 +5,7 @@
 ## I'm a Development Engineer In Test!!
 
 - 🌱 I’m currently skilled in JavaScript, Python, C++, SQL, React, Redux, Node.js, Express.js, MySQL, MongoDB, Django, RESTful API development, Selenium, WebdriverIO, Cypress, Tosca, API Testing (Postman, Katalon), AWS, Azure DevOps, Kubernetes, Linux, Docker, Heroku, and Git.
-- 🏅 I hold certificates from The Modern JavaScript Bootcamp - Udemy and The Web Developer Bootcamp - Udemy.
+- 🎓 I hold a Computer Science degree from San Francisco State University, and certificates from The Modern JavaScript Bootcamp - Udemy and The Web Developer Bootcamp - Udemy.
 - 🎯 I am looking for software engineering and SDET job opportunities.
 - 📈 My recent work experience includes positions at Carl Zeiss as a Software Development Engineer in Test and at Upwork as a Full Stack Developer - Freelancer.
 - 🥅 My goals include contributing more to Open Source projects and further developing my skills in my desired job roles.
