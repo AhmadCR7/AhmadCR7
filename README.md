@@ -44,7 +44,6 @@
 [<img align="left" alt="Express.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" />][webdevplaylist]
 [<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][webdevplaylist]
 [<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />][webdevplaylist]
-[<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" />][webdevplaylist]
 [<img align="left" alt="RESTful API" width="26px" src="https://img.icons8.com/office/16/000000/api-settings.png"/>][webdevplaylist]
 [<img align="left" alt="Selenium" width="26px" src="https://img.icons8.com/fluency/26/000000/selenium-test-automation.png" />][webdevplaylist]
 
