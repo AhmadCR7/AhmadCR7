@@ -14,14 +14,10 @@
 
 ### Connect with me:
 [<img align="left" alt="Phone" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/phone.svg" />][phone]
-&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-&nbsp;&nbsp;&nbsp;
 [<img align="left" alt="Website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="LinkedIn" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/linkedin.svg" />][linkedin]
-&nbsp;&nbsp;&nbsp;
-[<img align="left" alt="GitHub" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/mark-github.svg" />][github]
+[<img align="left" alt="LinkedIn" width="22px" src="https://simpleicons.org/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="GitHub" width="22px" src="https://simpleicons.org/icons/github.svg" />][github]
 
 [phone]: tel:+14693210894
 [email]: mailto:afghan.ahmadmujtaba@gmail.com
@@ -32,6 +28,7 @@
 <br />
 
 ### Languages and Tools:
+
 
 
 [<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][webdevplaylist]
