@@ -31,21 +31,26 @@
 
 
 
-[<img align="left" alt="Visual Studio Code" width="26px" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/>][webdevplaylist]
-[<img align="left" alt="HTML5" width="26px" src="https://img.icons8.com/color/48/000000/html-5.png"/>][webdevplaylist]
-[<img align="left" alt="CSS3" width="26px" src="https://img.icons8.com/color/48/000000/css3.png"/>][cssplaylist]
-[<img align="left" alt="Sass" width="26px" src="https://img.icons8.com/color/48/000000/sass.png"/>][cssplaylist]
-[<img align="left" alt="JavaScript" width="26px" src="https://img.icons8.com/color/48/000000/javascript.png"/>][jsplaylist]
-[<img align="left" alt="React" width="26px" src="https://img.icons8.com/plasticine/100/000000/react.png"/>][webdevplaylist]
-[<img align="left" alt="Redux" width="26px" src="https://img.icons8.com/color/48/000000/redux.png"/>][webdevplaylist]
-[<img align="left" alt="Node.js" width="26px" src="https://img.icons8.com/color/48/000000/nodejs.png"/>][webdevplaylist]
-[<img align="left" alt="Express.js" width="26px" src="https://img.icons8.com/color/48/000000/express.png"/>][webdevplaylist]
-[<img align="left" alt="GraphQL" width="26px" src="https://img.icons8.com/color/48/000000/graphql.png"/>][webdevplaylist]
-[<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/fluency/48/000000/mysql-logo.png"/>][webdevplaylist]
-[<img align="left" alt="MongoDB" width="26px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>][webdevplaylist]
-[<img align="left" alt="Git" width="26px" src="https://img.icons8.com/color/48/000000/git.png"/>][webdevplaylist]
-[<img align="left" alt="GitHub" width="26px" src="https://img.icons8.com/material-outlined/48/000000/github.png"/>][webdevplaylist]
-[<img align="left" alt="Terminal" width="26px" src="https://img.icons8.com/color/48/000000/console.png"/>][webdevplaylist]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/visualstudio/visualstudio-plain.svg" />][webdevplaylist]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />][webdevplaylist]
+[<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />][cssplaylist]
+[<img align="left" alt="Sass" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" />][cssplaylist]
+[<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" />][jsplaylist]
+[<img align="left" alt="Gatsby" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gatsby/gatsby-original.svg" />][webdevplaylist]
+[<img align="left" alt="GraphQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/graphql/graphql-plain.svg" />][webdevplaylist]
+[<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" />][webdevplaylist]
+[<img align="left" alt="Deno" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/denojs/denojs-original.svg" />][webdevplaylist]
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" />][webdevplaylist]
+[<img align="left" alt="Java" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" />][webdevplaylist]
+[<img align="left" alt="PHP" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" />][webdevplaylist]
+[<img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" />][webdevplaylist]
+[<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" />][webdevplaylist]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" />][webdevplaylist]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" />][webdevplaylist]
+[<img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" />][webdevplaylist]
+
+<br />
+<br />
 
 <br />
 <br />
